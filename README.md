@@ -2,6 +2,8 @@ Hello, I'm Daniel Corner
 
 I am a math graduate turned software developer. Please don't hesitate to contact me should you feel the need. 
 
+https://www.linkedin.com/in/daniel-corner-409128148/
+
 
 
 My work so far:
