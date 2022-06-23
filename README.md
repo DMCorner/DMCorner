@@ -1,6 +1,6 @@
 Hello, I'm Daniel Corner
 
-I'm currently learning NextJS and Redux
+I'm Dan. I am a math graduate turned software developer. Please don't hesitate to contact me should you feel the need. 
 
 
 
