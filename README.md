@@ -6,8 +6,11 @@ https://www.linkedin.com/in/daniel-corner-409128148/
 
 
 My work so far:
+
 http://daniel-michael-corner-sorting-visualizer.com/
+
 https://dmc-portfolio.vercel.app/
+
 https://www.air-vent-tech-ltd.co.uk/
 
 <!---
