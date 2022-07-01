@@ -1,4 +1,4 @@
-Hello, I'm Daniel Corner https://dmc-portfolio.vercel.app/
+Hello, I'm Daniel Corner
 
 I am a math graduate turned software developer. Please don't hesitate to contact me should you feel the need. danielmichaelcorner@gmail.com
 
