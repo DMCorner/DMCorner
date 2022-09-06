@@ -8,7 +8,7 @@ https://www.linkedin.com/in/daniel-corner-409128148/
 
 Portfolio:
 
-https://dmc-portfolio.vercel.app/
+https://dmc-portfolio-eta.vercel.app
 
 My work so far:
 
