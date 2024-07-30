@@ -1,6 +1,6 @@
 Hello, I'm Daniel Corner.
 
-I'm a math graduate turned software developer. Please don't hesitate to contact me should you feel the need. 
+I'm a math graduate turned programmer. Please don't hesitate to contact me should you feel the need. 
 
 Email: danielmichaelcorner@gmail.com
 
