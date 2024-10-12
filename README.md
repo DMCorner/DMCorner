@@ -4,8 +4,6 @@ I'm a math graduate turned programmer. Please don't hesitate to contact me shoul
 
 Email: danielmichaelcorner@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/daniel-corner-409128148/
-
 Portfolio: https://dmc-portfolio-eta.vercel.app
 
 
